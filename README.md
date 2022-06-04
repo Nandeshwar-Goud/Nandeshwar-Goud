@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Brute Force algorithm. Greedy algorithm. Recursive algorithm**
 
-- 🌱 I’m currently learning **bash**
+- 🌱 I’m currently learning **bash, Selenium**
 
 - 📝 I regularly write articles on [https://indushackerz.blogspot.com/](https://indushackerz.blogspot.com/)
 
