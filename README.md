@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://raw.githubusercontent.com/indushackerz/indushackerz/main/9e3dc44bced5bb5c0d9cc6f439500b02.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 # <div align="center">Hi 👋, I'm Nandeshwar-Goud</div>  
   
 <h3 align="center">A passionate Backend developer from India</h3>
